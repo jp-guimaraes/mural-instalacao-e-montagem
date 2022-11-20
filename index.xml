@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instalação e Montagem de Computadores</title>
+    <link>https://jp-guimaraes.github.io/mural-instalacao-e-montagem/</link>
+    <description>Recent content on Instalação e Montagem de Computadores</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jp-guimaraes.github.io/mural-instalacao-e-montagem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/mural-instalacao-e-montagem/docs/aula-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/mural-instalacao-e-montagem/docs/aula-01/</guid>
+      <description>Aula 01 - 21.11.2022 #  Slides:
+Reintrodução a disciplina
+Revisão
+ Material complementar disponível na equipe da disciplina no Microsoft Teams
+Planejamento do restante do curso</description>
+    </item>
+    
+  </channel>
+</rss>

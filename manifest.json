@@ -1,0 +1,15 @@
+{
+  "name": "Instalação e Montagem de Computadores",
+  "short_name": "Instalação e Montagem de Computadores",
+  "start_url": "/mural-instalacao-e-montagem/",
+  "scope": "/mural-instalacao-e-montagem/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/mural-instalacao-e-montagem/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
